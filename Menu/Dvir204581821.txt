@@ -1,0 +1,7 @@
+Pasta Napolitana price:62.5 X 2 Sbttl: 125.0
+Beef Carrpachio price:55.0 X 1 Sbttl: 55.0
+Steak price:112.5 X 3 Sbttl: 337.5
+Chicken price:82.0 X 1 Sbttl: 82.0
+Tirmissu price:34.5 X 2 Sbttl: 69.0
+Corona price:12.25 X 5 Sbttl: 61.25
+Total bill: 729.75

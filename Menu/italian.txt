@@ -1,0 +1,30 @@
+Pasta Napolitana
+First
+62.50
+Beef Carpaccio
+First
+55.0
+Tiramisu
+Dessert
+34.50
+Pavlova
+Dessert
+32.50
+Steak
+Main
+112.50
+Fish
+Main
+95.0
+Chicken
+Main
+82.0
+Corona
+Drink
+12.25
+Cola
+Drink
+10.50
+Ceviche
+First
+54.0
